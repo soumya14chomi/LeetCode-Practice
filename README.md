@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [3830-find-closest-person](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
