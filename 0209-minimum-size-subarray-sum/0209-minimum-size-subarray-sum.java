@@ -8,7 +8,7 @@ class Solution {
                 min = Math.min(min, l-r);
                 sum-=nums[r++];
             }
-            System.out.println(l+" "+r+" "+sum+" "+min);
+            // System.out.println(l+" "+r+" "+sum+" "+min);
 
         }
 
