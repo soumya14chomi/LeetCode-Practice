@@ -10,7 +10,7 @@ class Solution {
             count++;
 
             while(i+1<points.length && prev[1] >= points[i+1][0]){
-                System.out.println("in here: "+ prev[1]+" "+points[i+1][0]);
+                // System.out.println("in here: "+ prev[1]+" "+points[i+1][0]);
                 i++;
                 prev[0] = Math.max(prev[0], points[i][0]);
                 prev[1] = Math.min(prev[1], points[i][1]);
