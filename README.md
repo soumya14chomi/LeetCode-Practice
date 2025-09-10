@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Design
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Trie
 |  |
