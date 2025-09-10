@@ -17,7 +17,7 @@ class Solution {
         for (int num : numSet) {
             // Check if 'num' is the start of a sequence
             if (!numSet.contains(num - 1)) {
-                System.out.println("in for loop:" + num);
+                // System.out.println("in for loop:" + num);
                 int currentNum = num;
                 int currentStreak = 1;
                 
