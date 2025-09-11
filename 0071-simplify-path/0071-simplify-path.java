@@ -7,7 +7,7 @@ class Solution {
 
         // System.out.println(Arrays.toString(folders));
 
-        String res = "";
+        StringBuilder res = new StringBuilder();
 
         for(int i=0; i<folders.length; i++){
             if(folders[i].isEmpty())   continue;
@@ -20,9 +20,9 @@ class Solution {
         }
         // System.out.println(dq.toString());
         while(dq.size()>0){
-            res=res+"/"+dq.removeFirst();
+            res=res.append("/" + dq.removeFirst());
         }
 
-        return res.length() == 0 ? "/" : res; 
+        return res.length() == 0 ? "/" : res.toString(); 
     }
 }
