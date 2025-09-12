@@ -27,7 +27,7 @@ class Solution {
             }
         }
 
-        // if(grid[0][0] == ')' || grid[n-1][m-1] == '(' || (n+m)%2 !=0)   return false;
+         if(grid[0][0] == ')' || grid[n-1][m-1] == '(' || (n+m)%2 ==0)   return false;
         return dp(grid, dp, 0, 0, n, m, 0);
 
     }
