@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
@@ -174,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Linked List
