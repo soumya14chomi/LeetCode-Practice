@@ -12,7 +12,7 @@ class Solution {
                     res++;
                 }
                 if(i+1<s.length() && s.charAt(i+1) == ')'){
-                    System.out.println("in here");
+                    // System.out.println("in here");
                     i++;
                 }
                 else{
