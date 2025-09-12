@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0155-min-stack) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
 |  |
 | ------- |
