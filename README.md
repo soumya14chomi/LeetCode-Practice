@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0046-permutations) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
