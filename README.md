@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0112-path-sum) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
 ## Graph
 |  |
