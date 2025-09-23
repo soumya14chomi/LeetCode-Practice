@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
@@ -278,9 +279,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
