@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0045-jump-game-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
