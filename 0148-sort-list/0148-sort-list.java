@@ -49,17 +49,9 @@ class Solution {
             dummy = dummy.next;
         }
 
-        while(l1!=null){
-            dummy.next = l1;
-            l1 = l1.next;
-            dummy = dummy.next;
-        }
+        if(l1!=null)    dummy.next = l1;
 
-        while(l2!=null){
-            dummy.next = l2;
-            l2 = l2.next;
-            dummy = dummy.next;
-        }
+       if(l2!=null) dummy.next = l2;
         return head.next;
     }
 }
