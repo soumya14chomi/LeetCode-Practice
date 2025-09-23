@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
