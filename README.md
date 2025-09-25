@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
