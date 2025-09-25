@@ -37,7 +37,7 @@ class Solution {
         });
 
         PriorityQueue<Pair> pq = new PriorityQueue<Pair>( (a, b) -> b.getRight().compareTo(a.getRight()));
-        int res =w, idx =0, i =0;
+        int idx =0, i =0;
         // System.out.println(pairs.toString());
         while(idx < k){
             while(i<n && w>=pairs.get(i).getLeft()){
@@ -48,7 +48,6 @@ class Solution {
             if(!pq.isEmpty()){
                 Pair removed = pq.poll();
                 w+=removed.getRight();
-                res+=removed.getRight();
                 idx++;
             }
             else    break;
@@ -57,7 +56,7 @@ class Solution {
            
 
         }
-        return res;
+        return w;
         
     }
 }
