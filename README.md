@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0130-surrounded-regions) |
