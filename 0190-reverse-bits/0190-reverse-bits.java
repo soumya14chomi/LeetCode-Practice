@@ -5,7 +5,8 @@ class Solution {
         while(n>0){
             int temp = n%2;
             n = n/2;
-            res+= temp*Math.pow(2, i--);
+            res+= temp* (1<<i);
+            i--;
         }
 
         return res;
