@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Union Find
