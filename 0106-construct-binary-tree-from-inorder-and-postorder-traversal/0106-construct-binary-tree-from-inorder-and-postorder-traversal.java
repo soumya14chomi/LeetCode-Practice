@@ -30,7 +30,7 @@ class Solution {
     TreeNode build(HashMap<Integer, Integer> hm, int[] arr, int st, int end){
         if(st > end)    return null;
 
-        System.out.println(st+" "+end+" "+idx);
+        // System.out.println(st+" "+end+" "+idx);
 
         TreeNode root = new TreeNode(arr[idx]);
         int mid = hm.get(arr[idx]);
