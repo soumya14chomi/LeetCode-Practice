@@ -19,32 +19,22 @@ class Node {
 */
 
 class Solution {
-    public Node cloneGraph(Node root) {
-
-        if(root == null)    return null;
-        Queue<Node> qu = new LinkedList<>();
-
-        HashMap<Node, Node> hm = new HashMap<>();
-
-        Set<Node> visited = new HashSet<Node>();
-
-        hm.put(root, new Node(root.val));
-        qu.add(root);
-        visited.add(root);
-
-        while(!qu.isEmpty()){
-            Node node = qu.poll();
-            for(Node neighbor : node.neighbors){
-                if(!hm.containsKey(neighbor))   hm.put(neighbor, new Node(neighbor.val));
-                hm.get(node).neighbors.add(hm.get(neighbor));
-
-                if(!visited.contains(neighbor)){
-                    qu.add(neighbor);
-                    visited.add(neighbor);
-                }
-            }
+    public Node cloneGraph(Node node) {
+        return clone(node, new HashMap<>()); 
+    }
+    
+    private Node clone(final Node node, final Map<Integer, Node> nodeMap) {
+        if (node == null) {
+            return null;
         }
-
-        return hm.get(root);
+        if (nodeMap.containsKey(node.val)) {
+            return nodeMap.get(node.val);
+        }
+        final var cloned = new Node(node.val);
+        nodeMap.put(node.val, cloned);
+        for (final var n : node.neighbors) {
+            cloned.neighbors.add(clone(n, nodeMap));
+        }
+        return cloned;
     }
 }
