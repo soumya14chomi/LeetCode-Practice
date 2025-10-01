@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -421,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
