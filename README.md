@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0089-gray-code](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
 ## Graph
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0190-reverse-bits) |
 ## Memoization
 |  |
