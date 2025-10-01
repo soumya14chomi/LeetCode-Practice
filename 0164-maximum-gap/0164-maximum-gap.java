@@ -17,7 +17,7 @@ class Solution {
         int n = nums.length, gap = (int) Math.ceil((max - min) * 1.0 / (n - 1));
 ;
 
-        System.out.println(gap);
+        // System.out.println(gap);
 
         int[] minBucket = new int[n+1];
         int[] maxBucket = new int[n+1];
@@ -32,9 +32,9 @@ class Solution {
 
         }
 
-        for(int i=0; i<n+1; i++){
-            System.out.println(minBucket[i]+" "+maxBucket[i]);
-        }
+        // for(int i=0; i<n+1; i++){
+        //     System.out.println(minBucket[i]+" "+maxBucket[i]);
+        // }
         int prev = 0;
         for(int i=1; i<n; i++){
             if(minBucket[i] == Integer.MAX_VALUE) continue;
