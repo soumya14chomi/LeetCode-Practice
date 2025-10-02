@@ -8,6 +8,8 @@ class Solution {
 
         for(int i=2; i<=n/2; i++){
             int idx =2;
+
+            if(cons[i]) continue;
             while(i*idx < n)    {
                 cons[i*idx] = true;
                 idx++;
