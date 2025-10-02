@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Hash Table
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
