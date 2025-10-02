@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
+| [0174-dungeon-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0221-maximal-square) |
