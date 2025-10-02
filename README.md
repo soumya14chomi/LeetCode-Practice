@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1018-largest-perimeter-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -437,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
