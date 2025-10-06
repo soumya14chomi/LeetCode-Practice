@@ -1,8 +1,10 @@
 class Solution {
     public int swimInWater(int[][] grid) {
-        PriorityQueue<List<Integer>> pq = new PriorityQueue<>((a, b) -> grid[a.get(0)][a.get(1)] - (grid[b.get(0)][b.get(1)]));
+
         int n = grid.length, m = grid[0].length;
         int[][] minTime = new int[n][m];
+
+                PriorityQueue<List<Integer>> pq = new PriorityQueue<>((a, b) -> minTime[a.get(0)][a.get(1)] - (minTime[b.get(0)][b.get(1)]));
 
         for(int i=0; i<n;i++)   Arrays.fill(minTime[i] , Integer.MAX_VALUE);
 
