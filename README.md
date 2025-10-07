@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1018-largest-perimeter-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
