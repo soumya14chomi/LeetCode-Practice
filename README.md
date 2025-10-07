@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0406-queue-reconstruction-by-height](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
+| [0406-queue-reconstruction-by-height](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0611-valid-triangle-number) |
@@ -509,10 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 ## Line Sweep
 |  |
 | ------- |
