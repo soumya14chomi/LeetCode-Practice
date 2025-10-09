@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -250,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
 |  |
