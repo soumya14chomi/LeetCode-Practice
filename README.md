@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
