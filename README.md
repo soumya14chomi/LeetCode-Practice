@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
