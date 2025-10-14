@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0071-simplify-path) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1642-water-bottles) |
