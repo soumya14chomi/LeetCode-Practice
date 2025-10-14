@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
