@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Memoization
 |  |
 | ------- |
