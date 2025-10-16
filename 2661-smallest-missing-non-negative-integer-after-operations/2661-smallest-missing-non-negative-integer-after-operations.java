@@ -9,16 +9,18 @@ class Solution {
             hm.put(num, hm.getOrDefault(num, 0) + 1);
         }
 
-        System.out.println(hm.toString());
+        int min = 0, position = 0;
 
-        for(int i=0; i<=n; i++){
-            if(hm.isEmpty() || !hm.containsKey(i%value))    return i;
-            hm.put(i%value, hm.get(i%value)-1);
-
-            if(hm.get(i%value) == 0)    hm.remove(i%value);
+        for(int i=0; i< value; i++){
+            if(!hm.containsKey(i))  return i;
+            if(hm.get(min) > hm.get(i)) {
+                min = i;
+            }
         }
 
-        return n+1;
+        // System.out.println(min);
+        return value*hm.get(min) + min;
+
         
     }
 }
