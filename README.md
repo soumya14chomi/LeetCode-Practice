@@ -647,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
