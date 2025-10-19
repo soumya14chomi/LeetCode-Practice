@@ -3,28 +3,24 @@ class Solution {
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
 
-        helper(nums, 0, new ArrayList<>(), res, new HashSet<>());
+        helper(nums, 0, new ArrayList<>(), res);
         return res;
     }
-    void helper(int[] nums, int i, List<Integer> arr, List<List<Integer>> res, HashSet<String> hs){
-        if(i == nums.length){
-            if(hs.contains(arr.toString())) return;
-            hs.add(arr.toString());
+    void helper(int[] nums, int i, List<Integer> arr, List<List<Integer>> res){
+        if(i >= nums.length){
             res.add(new ArrayList<>(arr));
             return;
         }
 
-        // System.out.println(arr.toString());
-
-        helper(nums, i+1, arr, res, hs);
-        // if(i>0 && nums[i] == nums[i-1] ) return;
-
         arr.add(nums[i]);
-        // hs.add(nums[i]);
-        helper(nums, i+1, arr, res, hs);
+        helper(nums, i+1, arr, res);
         arr.remove(arr.size()-1);
-        // hs.remove(nums[i]);
-             
+
+        while(i<nums.length-1 && nums[i] == nums[i+1])    i++;
+
+        helper(nums, i+1, arr, res);
+        
     }
+
 
 }
