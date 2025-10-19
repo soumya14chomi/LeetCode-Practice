@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0772-construct-quad-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
