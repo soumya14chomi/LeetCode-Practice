@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3336-water-bottles-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1612-avoid-flood-in-the-city) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Design
 |  |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
 |  |
 | ------- |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
