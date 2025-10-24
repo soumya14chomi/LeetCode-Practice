@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
