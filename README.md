@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
 | ------- |
