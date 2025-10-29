@@ -3,7 +3,6 @@
 
 class PeekingIterator implements Iterator<Integer> {
     List<Integer> lst = new ArrayList<>();
-    Deque<Integer> dq = new ArrayDeque<>();
     int idx = 0;
 	public PeekingIterator(Iterator<Integer> it) {
 	    // initialize any member here.
@@ -22,7 +21,6 @@ class PeekingIterator implements Iterator<Integer> {
 	// Override them if needed.
 	@Override
 	public Integer next() {
-	    if(dq.peekFirst() == lst.get(idx))  dq.pollFirst();
         idx++;
         return lst.get(idx-1);
 	}
