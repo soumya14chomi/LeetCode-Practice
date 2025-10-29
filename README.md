@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0284-peeking-iterator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -707,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0177-nth-highest-salary) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
