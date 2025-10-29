@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0264-ugly-number-ii) |
+| [0282-expression-add-operators](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
