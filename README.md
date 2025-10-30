@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0365-water-and-jug-problem) |
@@ -547,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
