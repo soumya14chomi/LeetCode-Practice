@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0457-circular-array-loop](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1612-avoid-flood-in-the-city) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0460-lfu-cache](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
 | [2169-simple-bank-system](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2169-simple-bank-system) |
 ## Randomized
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -740,4 +743,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0284-peeking-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
