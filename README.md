@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0457-circular-array-loop](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0457-circular-array-loop) |
 | [0502-ipo](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0611-valid-triangle-number) |
 | [0772-construct-quad-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0457-circular-array-loop](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0457-circular-array-loop) |
 | [0611-valid-triangle-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [0457-circular-array-loop](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0457-circular-array-loop) |
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1612-avoid-flood-in-the-city) |
