@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0306-additive-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
 |  |
