@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0376-wiggle-subsequence) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0376-wiggle-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0502-ipo) |
