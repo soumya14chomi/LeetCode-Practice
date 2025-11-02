@@ -2,8 +2,7 @@
 
 class Solution {
     public String reverseWords(String s) {
-        s= s.stripLeading();
-        s = s.stripTrailing();
+        s= s.strip();
         String[] strs = s.split(" ");
         s = "";
         for(int i=strs.length-1; i>=0; i--){
