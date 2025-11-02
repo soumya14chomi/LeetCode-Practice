@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0376-wiggle-subsequence) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0772-construct-quad-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -620,11 +625,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -695,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
