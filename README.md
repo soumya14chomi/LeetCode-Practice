@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0376-wiggle-subsequence) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Hash Table
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
@@ -666,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0502-ipo) |
@@ -686,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -726,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
