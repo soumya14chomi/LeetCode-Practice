@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Recursion
 |  |
 | ------- |
