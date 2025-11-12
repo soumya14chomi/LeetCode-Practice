@@ -1,49 +1,48 @@
 class Trie {
-    class Node{
-        Character ch;
-        // List<Node> lst;
-        Map<Character, Node> hm;
-        Node(Character ch){
-            this.ch = ch;
-            hm = new HashMap<>();
+
+    class innerTrie{
+        innerTrie[] child;
+
+        boolean isword;
+
+        innerTrie(){
+            child = new innerTrie[26];
+            isword = false;
         }
-        
     }
-    Node root;
-    public Trie() {
-        root = new Node(null);
-    }
+
+    
+
+    innerTrie trie = new innerTrie();
     
     public void insert(String word) {
-        Node head =this.root;
-        for(int i=0; i<word.length();i++){
-            if(!head.hm.containsKey(word.charAt(i))){
-                head.hm.put(word.charAt(i), new Node(word.charAt(i)));
-            }
-            head = head.hm.get(word.charAt(i));
+        innerTrie temp = this.trie;
+
+        for(int i=0; i<word.length(); i++){
+            char ch = word.charAt(i);
+            if(temp.child[ch-'a'] == null)
+                 temp.child[ch-'a'] = new innerTrie();
+            temp = temp.child[ch-'a']; 
         }
-        head.hm.put('.', null);
+
+        temp.isword = true;
     }
     
     public boolean search(String word) {
-         Node head =this.root;
-        for(int i=0; i<word.length();i++){
-            if(!head.hm.containsKey(word.charAt(i))){
-                return false;
-            }
-            head = head.hm.get(word.charAt(i));
+        innerTrie temp = this.trie;
+        for(char ch: word.toCharArray()){
+            if(temp.child[ch-'a'] == null)   return false;
+            temp = temp.child[ch-'a'];
         }
-
-        return head.hm.containsKey('.');
+        if(temp.isword) return true;
+        return false;
     }
     
     public boolean startsWith(String prefix) {
-        Node head =this.root;
-        for(int i=0; i<prefix.length();i++){
-            if(!head.hm.containsKey(prefix.charAt(i))){
-                return false;
-            }
-            head = head.hm.get(prefix.charAt(i));
+        innerTrie temp = this.trie;
+        for(char ch: prefix.toCharArray()){
+            if(temp.child[ch-'a'] == null)   return false;
+            temp = temp.child[ch-'a'];
         }
 
         return true;
