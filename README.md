@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
+| [0937-online-stock-span](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2169-simple-bank-system) |
 ## Randomized
 |  |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0937-online-stock-span](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0937-online-stock-span](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0937-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
