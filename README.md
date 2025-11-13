@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0332-reconstruct-itinerary) |
 | [3863-power-grid-maintenance](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -861,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0214-shortest-palindrome) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
