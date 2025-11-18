@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0611-valid-triangle-number) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0772-construct-quad-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0873-guess-the-word](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0873-guess-the-word) |
