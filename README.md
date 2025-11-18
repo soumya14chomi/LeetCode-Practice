@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0396-rotate-function) |
 | [0873-guess-the-word](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0873-guess-the-word) |
 | [1018-largest-perimeter-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 | [0460-lfu-cache](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
 | [0937-online-stock-span](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0937-online-stock-span) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
