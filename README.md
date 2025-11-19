@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0937-online-stock-span](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0337-house-robber-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0337-house-robber-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
