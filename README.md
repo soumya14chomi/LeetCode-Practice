@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
