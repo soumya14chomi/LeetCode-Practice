@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2211-count-collisions-on-a-road](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2487-optimal-partition-of-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2487-optimal-partition-of-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
