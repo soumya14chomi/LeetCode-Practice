@@ -9,7 +9,7 @@ class Solution {
             return Integer.valueOf(a.get(1)).compareTo(Integer.valueOf(b.get(1)));
         });
 
-        System.out.println(events);
+        // System.out.println(events);
 
         for(int i=0; i<events.size();i++){
             Integer currTime = Integer.valueOf(events.get(i).get(1));
