@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0677-map-sum-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1612-avoid-flood-in-the-city) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
