@@ -1,33 +1,40 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        int[] prev = new int[26];
-        int[] next = new int[26];
 
-        Set<String> res = new HashSet<>();
+        int[] first = new int[26];
+        int[] last = new int[26];
 
-        for(int i=1; i<s.length(); i++){
-            next[s.charAt(i) - 'a']++;
-        }
-        prev[s.charAt(0) - 'a']++;
+        Arrays.fill(first,-1);
+        Arrays.fill(last, -1);
 
-        for(int i=1; i<s.length()-1; i++){
-            next[s.charAt(i) - 'a']--;
+        int res =0;
 
-            for(int j=0; j<26; j++){
-                if(prev[j] > 0 && next[j] > 0) 
-                {
+        for(int i=0; i<s.length(); i++){
 
-                    char outer = (char) ('a' + j);
-                    char mid = s.charAt(i);
-                    // Build a real string "outer mid outer"
-                    res.add(new StringBuilder(3).append(outer).append(mid).append(outer).toString());
+            int ch = s.charAt(i) - 'a';
 
-                }
+            if(first[ch] == -1){
+                first[ch] = i;
             }
-
-            prev[s.charAt(i) -'a'] ++;
+            last[ch] = i;
         }
 
-        return res.size();
+
+        for(int i=0; i<26; i++){
+            if(first[i] != last[i]){
+                // res+= (prefix[last[i]] - prefix[first[i]] );
+
+                Set<Character> count = new HashSet<>();
+                for(int j = first[i] +1; j<last[i]; j++){
+                    // System.out.println("Adding:" + s.charAt(j));
+                    count.add(s.charAt(j));
+                }
+
+                res+=(count.size());
+            }
+        }
+
+        return res;
+    
     }
 }
