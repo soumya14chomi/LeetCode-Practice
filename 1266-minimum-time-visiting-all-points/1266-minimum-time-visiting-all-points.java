@@ -6,7 +6,7 @@ class Solution {
             int diagTime = Math.min(Math.abs(points[i][0] - points[i-1][0]),
                                         Math.abs(points[i][1] - points[i-1][1]));
 
-            System.out.println(diagTime);
+            // System.out.println(diagTime);
 
 
             ans+= ( Math.abs(points[i][0] - points[i-1][0]) + Math.abs(points[i][1] - points[i-1][1]) - diagTime);
