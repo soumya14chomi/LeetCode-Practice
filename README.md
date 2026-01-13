@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1266-minimum-time-visiting-all-points](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0396-rotate-function) |
 | [0873-guess-the-word](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/0873-guess-the-word) |
 | [1018-largest-perimeter-triangle](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1585-the-kth-factor-of-n) |
@@ -971,5 +973,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/soumya14chomi/LeetCode-Practice/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
